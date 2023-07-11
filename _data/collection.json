@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "DH2023 - Zora Neale Hurston " ] },
+    "summary": { "en": [ "this is an AudiAnnotate practice project" ] },
+    "items": [
+    ]
+}
