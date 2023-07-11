@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://syokoyam.github.io/dh2023-zora-neale-hurston/shove-it-over-do-over-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "shove it over (do over)" ] },
+    "homepage": [
+      {
+        "id": "https://www.loc.gov/item/flwpa000006/",
+        "type": "Text",
+        "label": { "en": [ "shove it over (do over)" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.loc.gov/item/flwpa000006/",
+        "type": "Agent",
+        "label": { "en": [ "Library of Congress" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://syokoyam.github.io/dh2023-zora-neale-hurston/shove-it-over-do-over-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 00.02.47,
+        "items": [
+          {
+            "id": "https://syokoyam.github.io/dh2023-zora-neale-hurston/shove-it-over-do-over-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://syokoyam.github.io/dh2023-zora-neale-hurston/shove-it-over-do-over-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://tile.loc.gov/storage-services/media/ingested/api/loc.afc.afcflwpa.3136a1.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 00.02.47
+                },
+                "target": "https://syokoyam.github.io/dh2023-zora-neale-hurston/shove-it-over-do-over-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
