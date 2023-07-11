@@ -23,6 +23,16 @@
         "id": "https://syokoyam.github.io/dh2023-zora-neale-hurston/shove-it-over/canvas-1/canvas",
         "type": "Canvas",
         "duration": 167.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://syokoyam.github.io/dh2023-zora-neale-hurston/annotations/shove-it-over-canvas-1--hey.json",
+            "label": {
+              "none": [" hey"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://syokoyam.github.io/dh2023-zora-neale-hurston/shove-it-over/canvas-1/paintings",

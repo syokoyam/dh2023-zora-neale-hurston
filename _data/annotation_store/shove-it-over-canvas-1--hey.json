@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://syokoyam.github.io/dh2023-zora-neale-hurston/annotations/shove-it-over-canvas-1--hey.json",
+  "type": "AnnotationPage",
+  "label": " hey",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "shove-it-over-canvas-1--hey-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"When I get in Illinois I'm going to spread the news about the Florida boys. Chorus: (All men straining at rail in concert.) Shove it over! Hey",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "can't you line it? -a-lack-a-lack. (Shaking rail.) Ah",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://syokoyam.github.io/dh2023-zora-neale-hurston/shove-it-over/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00.00.00,00.02.47"
+        }
+      }
+    }
+  ]
+}
