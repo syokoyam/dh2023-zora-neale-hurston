@@ -32,6 +32,14 @@
               "none": [" hey"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://syokoyam.github.io/dh2023-zora-neale-hurston/annotations/shove-it-over-canvas-1-song.json",
+            "label": {
+              "none": ["Song"]
+            }
+          }
         ],
         "items": [
           {

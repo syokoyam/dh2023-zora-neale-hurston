@@ -1,0 +1,44 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://syokoyam.github.io/dh2023-zora-neale-hurston/annotations/shove-it-over-canvas-1-song.json",
+  "type": "AnnotationPage",
+  "label": "Song",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "shove-it-over-canvas-1-song-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "When I get in Illinois I'm going to spread the news about the Florida boys. Chorus: (All men straining at rail in concert.) Shove it over! Hey, hey, can't you line it? -a-lack-a-lack. (Shaking rail.) Ah, shack-a-lack-a-lack-a_lack-a-lack (Grunt as they move rail.) Can't you move it? Hey, hey, can't you try.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Shove It Over",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://syokoyam.github.io/dh2023-zora-neale-hurston/shove-it-over/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00.00.00,00.02.47"
+        }
+      }
+    }
+  ]
+}
